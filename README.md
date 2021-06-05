@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am an ordinary self-taught computer programmer. Programming is something I like most. It’s fascinating to me.
+
+Also, I am a full-time learner. I am an enthusiastic learner and always enjoy learning something new about technology. I always try to keep update myself by learning.
+
 <!--
 **ibrahimhasnat/ibrahimhasnat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
